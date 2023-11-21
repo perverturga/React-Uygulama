@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "title" : "Sakız",
+        "price" : 0.5,
+        "image" :"https://www.elvan.com.tr/first-sensations-nane-sakizli-27-gr-1-adet-sakiz-first-2477-15-K.jpg"
+    },
+    {
+        "id" : 2,
+        "title" : "Kola",
+        "price" : 6,
+        "image" : "https://images.migrosone.com/sanalmarket/product/08011740/8011740_yan-7132f5-1650x1650.jpg "
+    },
+    {
+        "id" : 3,
+        "title" : "Ayakkabı",
+        "price" : 400,
+        "image" : "https://cdn.cimri.io/pictures/article/original/46/46364.jpg"
+    },
+    {
+        "id" : 4,
+        "title" : "Araba",
+        "price" : 40000,
+        "image" : "https://ideacdn.net/idea/cy/49/myassets/products/161/starwheels_min.jpg?revision=1697143329"
+    }
+]
